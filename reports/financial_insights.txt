@@ -1,0 +1,41 @@
+********************************************************************
+PERSONAL FINANCE INSIGHTS REPORT
+********************************************************************
+
+1. SPENDING SUMMARY:
+   Total Expenses: Rs 161,236.57
+   Total Income: Rs 84,561.85
+   Net Savings: Rs -76,674.72
+   Savings Rate: -90.67%
+
+2. TOP SPENDING CATEGORIES:
+   Misc: Rs 92,194.17
+   Rent: Rs 43,804.00
+   Food: Rs 19,031.40
+   Transport: Rs 4,780.00
+   Shopping: Rs 1,427.00
+   Total: Rs 161,236.57 
+
+3. MONTHLY AVERAGES:
+   Average Monthly Expense: Rs 12,402.813076923077
+   Average Daily Spend: Rs 1,366.4116101694915
+
+4. BIGGEST EXPENSES (Top 5):
+   2023-09-12: Misc - Rs 15,048.00
+   2023-05-08: Misc - Rs 13,000.00
+   2023-09-06: Misc - Rs 8,000.00
+   2023-08-07: Misc - Rs 7,800.00
+   2023-02-08: Rent - Rs 7,459.00
+
+5. RECOMMENDATIONS:
+   * Consider reducing spending on Misc
+   * Your savings rate is -90.67%
+   * Focus on Rent
+   * Try to reduce Misc spending
+
+6. FINANCIAL HEALTH SCORE: -170.8/100
+   - Income Score: 16.9%
+   - Savings Score: -453.4%
+   - Expense Control: -76.0%
+
+7. FINAL BALANCE: Rs 39.68
