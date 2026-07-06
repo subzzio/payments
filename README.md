@@ -25,35 +25,18 @@ Analyze personal UPI transaction data to understand spending patterns, identify 
 - **Average Daily Spend:** Rs {:,}
 - **Final Balance:** Rs {:,}
 
-## 4. Dashboard Screenshots
-
-### Page 1: Executive Overview
-![Executive Overview](images/page-1_db.png)
-
-### Page 2: Transaction Dashboard (Main)
-![Transaction Dashboard](images/page-2_db.png)
-
-### Page 2.2: Category Analysis
-![Category Analysis](images/page-2.2_db.png)
-
-### Page 3: Financial Health (Main)
-![Financial Health](images/page-3_db.png)
-
-### Page 3.2: Detailed Health
-![Detailed Health](images/page-3.2_db.png)
-
-## 5. Key Recommendations
+## 4. Key Recommendations
 - **Reduce {0} spending** - Highest expense category
 - **Increase savings rate** to 20% (currently {1:.2f}%)
 - **Track daily spending** to avoid overspending
 - **Create monthly budget** for each category
 
-## 6. Tools Used
+## 5. Tools Used
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Jupyter Notebook** for analysis
 - **Power BI** for dashboard creation
 
-## 7. Project Structure
+## 6. Project Structure
 TASK_13_Digital_Payment_Analytics/
 ├── data/ # Raw and cleaned datasets
 ├── notebook/ # Jupyter analysis notebook
@@ -65,13 +48,13 @@ TASK_13_Digital_Payment_Analytics/
 
 text
 
-## 8. How to Run This Project
+## 7. How to Run This Project
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run Jupyter Notebook and execute all cells
 3. Open Power BI and import cleaned data
 4. Explore the 5 dashboard pages
 
-## 9. Future Scope
+## 8. Future Scope
 - Predictive analytics for spending patterns
 - Automated monthly budget alerts
 - Bank API integration for real-time tracking
@@ -92,5 +75,5 @@ with open('../README.md', 'w', encoding='utf-8') as f:
         top_cat.index[1] if len(top_cat) > 1 else 'N/A'
     ))
 
-print("✅ README.md created successfully!")
+print("✅ README.md created successfully!") 
 
